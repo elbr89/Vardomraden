@@ -1,11 +1,11 @@
 var test7 = {
-	"name" : "Ny_lealflet_m_fargindikator",
+	"name" : "Vardomraden",
 	"type" : "FeatureCollection",
 	"features" : [
 		{
-			"type" : "FeatureCollection",
+			"type" : "Feature",
 			"geometry" : {
-				"type" : "MultiPolygon",
+				"type" : "MulitPolygon",
 				"coordinates" : [
 					[
 						[
