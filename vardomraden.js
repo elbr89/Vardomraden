@@ -3,7 +3,7 @@ var test7 = {
 	"type" : "FeatureCollection",
 	"features" : [
 		{
-			"type" : "Feature",
+			"type" : "FeatureCollection",
 			"geometry" : {
 				"type" : "MultiPolygon",
 				"coordinates" : [
