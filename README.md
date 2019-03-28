@@ -1,4 +1,4 @@
-# Vardomraden
+# Vårdområden
 Vårdområden för äldreomsorgen i Sjöbo kommun
 
 Under hösten 2017 inleddes dialog med Vård- och omsorgsförvaltningen. Förvaltningen ser positivt på GIS-tillämpning, vad gäller till exempel dynamisk kartläggning av kunder samt ruttplanering. Det första steget är emellertid att kartlägga de s.k. vårdområden som används inom förvaltningen. Under hösten 2017 har Daniel Lundqvist skickat in Excel-listor med information om gata och vilket vårdområde den tillhör. Excel-filen heter Vardomraden och ligger i mappen G:\SB GIS projekt\Vårdområden. Där finns även skisser över vårdområdena som Daniel har skickat in. Baserat på Excel-filen, filen reAdress i sde_geofir (FastighetsModell), samt filen fastighetsytor_1265 i sde_gsd har ett FME-skripts tagits fram för att skapa vårdområdena. Skriptet är dokumenterat och finns i mappen G:\SB GIS\Arbetsytor FME\IP_Vårdområden. Leverans skedde 2018-03-23 med en Leaflet-lösning, denna lösning finns beskriven i koden.  
